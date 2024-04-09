@@ -1,4 +1,11 @@
 body{
     background-color: blueviolet;
     color: white;
+    
+}
+a{
+    color: white; 
+}
+a: hover{
+    color: pink
 }
